@@ -1,0 +1,2 @@
+Written in C.
+Reports amount of page faults for LRU and Optimal replacement schemes in order to compare optimality.
